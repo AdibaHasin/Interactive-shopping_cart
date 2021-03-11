@@ -1,1 +1,3 @@
-# Assignment-3
+# interactive shopping cart
+
+Programming languages: HTML, Bootstrap, CSS, JavaScript
